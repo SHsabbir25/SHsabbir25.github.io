@@ -1,4 +1,4 @@
-# Mohammad(MD) Sabbir Hossain Shah
+# MD Sabbir Hossain Shah
 **Geospatial Engineer | Urban Planning Professional**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)
