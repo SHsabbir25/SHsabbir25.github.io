@@ -55,6 +55,6 @@ I'm not just learning about cities,I'm preparing to shape their future. Every pr
 
 ---
 **[Email Me](mailto:sabbir.shahh.258@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)**\
-*“Democratizing access to geospatial data for a sustainable future.*
+*"Democratizing access to geospatial data for a sustainable future."*
 
 
