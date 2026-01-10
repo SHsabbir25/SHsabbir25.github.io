@@ -1,3 +1,27 @@
+<p align="center">
+  <img src="Profile.jpeg" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+</p>
+
+<h1 align="center">MD Sabbir Hossain Shah</h1>
+<p align="center">
+  <b>Urban Planning Student | Geospatial Analyst | GeoAI Researcher</b><br>
+  <i>Pabna University of Science and Technology</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://orcid.org/0009-0001-8940-206X"><img src="https://img.shields.io/badge/ORCID-Publication-green?style=flat-square&logo=orcid"></a>
+  <a href="mailto:sabbir.shahh.258@gmail.com"><img src="https://img.shields.io/badge/Portfolio-Active-orange?style=flat-square"></a>
+</p>
+
+---
+
+### About Me
+I'm an undergraduate student in **Urban and Regional Planning**...
+
+
+
+
 **Urban Planning Student | Geospatial Analyst | GeoAI Researcher**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)
