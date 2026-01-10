@@ -41,7 +41,7 @@ I'm not just learning about cities,I'm preparing to shape their future. Every pr
 ### Featured Technical Projects
 <!-- Change these links once you upload your projects -->
 - [**Satellite Imagery Classification**](https://github.com/SHsabbir25/Image-Classification-With-ML) - An ML-based approach to classigy satellite imagery.
-- [**Fundamentals of Google Earth Engine**](https://github.com/SHsabbir25/Fundamentals-of-GEE)- End-to-End Google Earth Engine Basics
+- [**Fundamentals of Google Earth Engine**](https://github.com/SHsabbir25/Fundamentals-of-GEE)- End-to-End Google Earth Engine Basics.
 - [**SQL-Spatial-Architecture**](https://github.com/your-username/project2) - Advanced SQL queries for managing multi-million row urban datasets using DuckDB/PostgreSQL.
 - [**Urban-Traffic-Simulation**](https://github.com/your-username/project3) - Integration of PTV VISSIM data with Python for congestion analysis.
 
