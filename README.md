@@ -77,7 +77,7 @@ I'm not just learning about cities,I'm preparing to shape their future. Every pr
 ### Strategic Partnerships & Leadership
 - **Founding President**, PUST YouthMappers (International Network)
 - **Campus Ambassador**, State of the Map (SotM) Asia 2024
-- **Researcher**, SERC Geospatial Projects
+- **Undergraduate Research Assistant**, Department of Urban and Regional Planning, Pabna University of Science and Technology
 
 ---
 **[Email Me](mailto:sabbir.shahh.258@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohammad-sabbir-hossain-shah-817072209/)**\
