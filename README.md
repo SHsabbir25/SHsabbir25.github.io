@@ -64,6 +64,7 @@ I'm not just learning about cities,I'm preparing to shape their future. Every pr
 - [**Fundamentals of Google Earth Engine**](https://github.com/SHsabbir25/Fundamentals-of-GEE)- End-to-End Google Earth Engine Basics.
 - [**Time Series Analysis in Google Earth Engine**](https://github.com/SHsabbir25/Time-Series-Analysis-In-GEE-)- Unlocking decades of satellite history to track urban sprawl and environmental resilience at a planetary scale.
 - [**Environmental Hazard and Risk Analysis**](https://github.com/SHsabbir25/Environmental-Hazard-and-Risk-Analysis)- Integrating Machine Learning and multi-criteria spatial modeling to quantify landscape vulnerability and predict environmental risks.
+- [**Flood Inundation Mapping In GEE Environment**](https://github.com/SHsabbir25/Flood-Inundation-Mapping-GEE)- Mapping the invisible: Leveraging SAR technology and cloud computing to monitor flood dynamics through the heaviest monsoon cloud cover.
 - [**SQL-Spatial-Architecture**](https://github.com/your-username/project2) - Advanced SQL queries for managing multi-million row urban datasets using DuckDB/PostgreSQL.
 - [**Urban-Traffic-Simulation**](https://github.com/your-username/project3) - Integration of PTV VISSIM data with Python for congestion analysis.
 
