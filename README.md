@@ -1,3 +1,14 @@
+<style>
+  /* This hides the default theme header title */
+  h1:first-of-type:not([align="center"]) {
+    display: none;
+  }
+  
+  /* If you are using the 'Minimal' or 'Architect' theme, use this: */
+  header { display: none !important; }
+  section#main_content { padding-top: 20px; }
+</style>
+
 <p align="center">
   <img src="Profile.jpeg" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
 </p>
