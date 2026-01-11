@@ -62,6 +62,7 @@ I'm not just learning about cities,I'm preparing to shape their future. Every pr
 <!-- Change these links once you upload your projects -->
 - [**Satellite Imagery Classification**](https://github.com/SHsabbir25/Image-Classification-With-ML) - An ML-based approach to classigy satellite imagery.
 - [**Spatio-Temporal To Landcover Analysis Through GeoAI**](https://github.com/SHsabbir25/Spatio-Temporal-Land-Cover-GeoAI)- Harnessing Random Forest ensembles to decode decadal land-use transitions and model future spatio-temporal growth trajectories.
+- [**Vegetation Dynamics and Eco-Analytics**](https://github.com/SHsabbir25/GEE-Vegetation-Dynamics-and-Eco-Analytics)- Integrating biophysical variables and satellite intelligence to mitigate crop water stress and quantify carbon sequestration in climate-vulnerable ecosystems.
 - [**Fundamentals of Google Earth Engine**](https://github.com/SHsabbir25/Fundamentals-of-GEE)- End-to-End Google Earth Engine Basics.
 - [**Time Series Analysis in Google Earth Engine**](https://github.com/SHsabbir25/Time-Series-Analysis-In-GEE-)- Unlocking decades of satellite history to track urban sprawl and environmental resilience at a planetary scale.
 - [**Environmental Hazard and Risk Analysis**](https://github.com/SHsabbir25/Environmental-Hazard-and-Risk-Analysis)- Integrating Machine Learning and multi-criteria spatial modeling to quantify landscape vulnerability and predict environmental risks.
